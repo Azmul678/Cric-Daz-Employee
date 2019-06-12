@@ -1,11 +1,11 @@
 {
-	"name": "Tutti Fruitti",
-	"short_name": "Tutti Fruitti",
-	"description": "Tutti Fruitti",
+	"name": "Christmas Factory",
+	"short_name": "Christmas Factory",
+	"description": "Santa's factory is going crazy. Help Mr. Claus to avoid all the falling presents.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#522214",
+	"background_color": "#ffffff",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
